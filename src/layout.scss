@@ -8,7 +8,15 @@
     padding-left:20px;
     padding-right:20px;
 
+    @include lg{
+        background-color: coral;
+    }
+
+    @include md{
+        background-color: cornflowerblue;
+    }
+
     @include sm{
         background-color: red;
-    }
+    }   
 } 
