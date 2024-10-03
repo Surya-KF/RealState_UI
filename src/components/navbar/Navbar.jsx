@@ -15,7 +15,7 @@ function Navbar() {
         <a href="/">Agents</a>
       </div>
       <div className="right">
-        <a href="/">Sign in</a>
+        <a href="/" className='login'>Sign in</a>
         <a href="/" className='register'>Sign up</a>
         <div className="menuIcon">
           <img 

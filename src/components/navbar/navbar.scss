@@ -53,7 +53,8 @@ nav {
     justify-content: flex-end;
     background-color: #fcf5f3;
     height: 100%;
-
+    
+    
     @include md {
       background-color: transparent;
     }
@@ -61,6 +62,7 @@ nav {
     a {
       padding: 12px 24px;
       margin: 20px;
+      
     }
 
     .user{
@@ -106,9 +108,16 @@ nav {
       }
     }
 
+    .login{
+      background-color: #fece51;
+      border-radius: 2rem;
+    }
+
     .register {
       background-color: #fece51;
+      border-radius: 2rem;
     }
+
 
     .menuIcon {
       display: none;
