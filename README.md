@@ -17,7 +17,6 @@ A React-based front-end application for managing real estate property listings. 
 - [License](#license)
 
 ---
-
 ## Features
 
 - **Browse Properties**: View property listings with the ability to search and filter.
